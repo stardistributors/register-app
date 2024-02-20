@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at Virtual TechBox Youtube Channel</h1>
-    <p>Please fill in this form to create an account.</p>
+<h2>Star Devops Online Training</h2>    
+<h1>New user Register for DevOps Training.</h1>
+    <p>Please fill all the fields in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
